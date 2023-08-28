@@ -10,7 +10,7 @@
 
 ## 🌐Socials
 <p align="left">
-<a href=" https://twitter.com/Ajjj50?s=35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Ajjj50" height="30" width="40" /></a>
+<a href="https://twitter.com/Ajjj50?s=35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Ajjj50" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nyi-bo-4370a4218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyi-bo-4370a4218" height="30" width="40" /></a>
 <a href="https://www.facebook.com/albert.ozai.1?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="albert.ozai" height="30" width="40" /></a>
 <a href="https://instagram.com/nyibo404.exe?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nyibo404.exe" height="30" width="40" /></a>
