@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Nyi Nyi Bo👋
-##😊 About ME
+## 😊 About ME
 - 🌱 I’m currently learning data science
 - 🤔 I’m looking for help with algorithms and data structures
 - 💬 Ask me about statistics and analysis
