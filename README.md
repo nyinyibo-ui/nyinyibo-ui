@@ -20,6 +20,7 @@
  
 ![Tabeau](https://img.shields.io/badge/tableau-white?style=for-the-badge&logo=Tableau#E97627) 
 ![Jupyter notebook](https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=Jupyter#F37626) ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=R#276DC3) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=Java)
 ## 📊Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyinyibo-ui&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyinyibo-ui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=donut)
